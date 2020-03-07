@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-<p align="center">ebaumer@gmail.com – +1 202 213 2712</p>
+<p align="center">ebaumer@gmail.com</p>
 
 <br/>
 <br/>
