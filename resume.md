@@ -13,10 +13,18 @@ title: Resume
 ## PROFESSIONAL EXPERIENCE
 ------------------
 **February 2020 - Present**<br/>
-Data Scientist<br/>
-Plutoshift, Inc.
+Principal Data Scientist Consultant<br/>
 
-Helping build AI and machine learning solutions for industrial applications.
+Building AI and machine learning solutions for a variety of customers. In addition to the development of models, 
+I help companies translate business problems into solvable AI use cases. I also advise companies on how to successfully 
+adopt AI predictions and insights into everyday business decisions.
+
+Projects include:
+* Developed a forecasting model to predict water demand for a local city water department on an aggregated level as well as by individual customers. With these models, I helped the department understand environmental factors that drove water demand for different segments of their customer base as well as the seasonality of the demand.
+* Developed models to predict yield of dog food through the manufacturing process. These models helped the manufacturer optimize production settings to ensure the final product meets specifications.
+* Developed an optimization framework to optimize the cost of chemicals used in a wastewater treatment facility. 
+* Developed anomaly detection models for water cooling towers. In addition to predicting anomalies in data streams from water cooling towers I provided model insights so that the customer could understand the drivers of these anomalies. These insights helped the customer expedite repair and servicing of equipment.
+
 
 <br/>
 **2019 - 2020**<br/>
