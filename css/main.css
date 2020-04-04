@@ -707,6 +707,14 @@ pre {
   background: none;
 }
 
+.highlight pre {
+    word-wrap: normal;
+}
+
+.highlight pre code {
+    white-space: pre;
+}
+
 /* --- Social media sharing section --- */
 
 #social-share-section {
@@ -799,3 +807,14 @@ pre {
   margin-left: auto;
   margin-right: auto;
 }
+
+.figure-row3 {
+  display: flex;
+  max-width: none;
+  justify-content: center;
+  figure {
+   text-align: center;
+   img { max-width: 100%; }
+   }
+ }
+
