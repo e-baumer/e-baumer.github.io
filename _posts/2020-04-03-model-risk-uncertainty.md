@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Model Uncertainty
-subtitle: Investigating uncertainty in model predictions with practicle examples 
+subtitle: Investigating uncertainty in model predictions with practical examples 
 tags: [modeling, uncertainty]
 image: /img/uncert_0.png
 ---
@@ -14,7 +14,7 @@ equipment it’s best to clearly understand the uncertainties in that prediction
 categories of model uncertainty and illustrate these uncertainties through practical examples. Note that this post 
 heavily draws upon Guilherme Duarte Marmerola’s excellent [post](https://gdmarmerola.github.io/risk-and-uncertainty-deep-learning/).
 
-## Aleatory vs Epistemic Uncertainty 
+## Aleatoric vs Epistemic Uncertainty 
 Model uncertainty can be broken down into two different categories, aleatoric and epistemic. These are often referred 
 to as risk (aleatoric uncertainty) and uncertainty (epistemic uncertainty). Because the term “uncertainty” can refer 
 to a specific type of uncertainty (epistemic) or the overall uncertainty of the model, I will use the terms aleatoric 
