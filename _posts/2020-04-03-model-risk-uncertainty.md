@@ -83,10 +83,10 @@ plt.show()
 
 
 We added noise and sampled $$x$$ from a distribution to illustrate both aleatoric and epistemic uncertainty. The heteroscedastic 
-noise represents variability of our system and therefore the epistemic uncertainty. It’s something that we can not reduce. 
+noise represents variability of our system and therefore the aleatoric uncertainty. It’s something that we can not reduce. 
 As the noise increases away from 0 so does our epistemic uncertainty. 
 
-The way we sampled the $$x$$ values represents the aleatoric uncertainty. This uncertainty will also increase as we move away 
+The way we sampled the $$x$$ values represents the epistemic uncertainty. This uncertainty will also increase as we move away 
 from the origin. The reason for this is because we have less data points to train the model on the further out we go. This 
 is a reducible error as we could go out and collect more data points, given enough time and resources.
 
