@@ -11,8 +11,8 @@ Where is the intersection of social-economic behavior and mathematics? Is it pos
 A while back a colleague, [Kevin James](https://kwjames.com/),  and I created an interactive [report](https://visualperspective.io/migration/) 
 detailing a hypothetical forced migration scenario in Yemen. That report gave a high-level graphic overview of the project as well as allowed 
 the user to explore possible scenarios. In this short blog post, we explore some of the technical aspects of the modeling. Even though statistical 
-modeling is all the hotness right now, there are still applications that work well with modeling physical principals. For this project, I modeled 
-a human behavior using a fundamental law of physics, heat conduction (the heat equation).
+modeling is all the hotness right now, there are still applications that work well with modeling physical principals. For this project, I attempted to modeled 
+human behavior (migration) using a fundamental law of physics, heat conduction (the heat equation).
 
 Before we dive in, I would like to highlight the work of [Paul Millhouser](http://www.millhousergis.com/), a geospatial ecologist, who modeled 
 the migration of 
