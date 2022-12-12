@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Curious Case of Python Debugger 
+title: The Curious Case of the Python Debugger 
 subtitle: What happens when you try to run dictionary comprehension in the Python debugger (Pdb)? 
 tags: [Python]
 image: /img/pdb1.jpg
