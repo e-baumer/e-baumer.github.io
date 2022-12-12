@@ -181,7 +181,8 @@ Disassembly of <code object <dictcomp> at 0x7f8aa02fa130, file "string", line 1>
 ```
 
 The second part is the disassembly of the dictionary comprehension. You may notice that within the
-dictionary comprehension, python is trying to load `fltrlist` from the global scope. When it should
-be loading this from the local scope.
+dictionary comprehension, python is trying to load `fltrlist` from the global scope. The bug becomes
+aparent because the variable is defined within the function scope or the local scope and is not
+in the global scope.
 
 Will you ever encounter this bug? Maybe not. But it was fun learning how the Python debugger worked.
