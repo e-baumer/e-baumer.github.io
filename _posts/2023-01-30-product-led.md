@@ -38,9 +38,9 @@ dangerous for a company. A company should balance many factors when developing a
 In defining what product-led means, Melissa goes onto explain what not being product-led means by defining three 
 other types of companies:
 
-* Sales-Led - Sales-led organizations are organizations where the sales team is selling ahead of the road map. I understand this to mean that the sales team are promising features or products that don’t necessarily exist in the present.
-* Visionary-Led - Visionary-led organizations are based on someone’s view of the vision and when that person leaves the company, the question becomes how do you sustain the vision.
-* Technology-Led - Technology-led organizations are “all about the cool tech”. They are organizations that work on building out cool “tech” but that don’t have value to the users.
+* **Sales-Led** - Sales-led organizations are organizations where the sales team is selling ahead of the road map. I understand this to mean that the sales team are promising features or products that don’t necessarily exist in the present.
+* **Visionary-Led** - Visionary-led organizations are based on someone’s view of the vision and when that person leaves the company, the question becomes how do you sustain the vision.
+* **Technology-Led** - Technology-led organizations are “all about the cool tech”. They are organizations that work on building out cool “tech” but that don’t have value to the users.
 
 These alternatives are all presented in the extremes and in the presentation it’s made to seem that you are either 
 product-led or one of these other extremes and I think that is dangerous. Why is this dangerous?
