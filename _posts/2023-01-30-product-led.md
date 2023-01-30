@@ -115,5 +115,7 @@ reading it.
 
 
 <sup>[1]</sup> https://www.youtube.com/watch?v=DmJXpI7OJuY
+
 <sup>[2]</sup> https://www.cpr.org/2023/01/08/southwest-airline-winter-storm-and-technology-breakdown-will-cost-it-up-to-825-million/
+
 <sup>[3]</sup> https://hbr.org/2019/02/why-visionary-leadership-fails
